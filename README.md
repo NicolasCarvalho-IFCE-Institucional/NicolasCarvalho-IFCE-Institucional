@@ -1,8 +1,8 @@
 # Bem vindo !
 
 🏫 Estudante do curso de informática no IFCE campus Fortaleza  
-🎯 Github destinado para atividade, trabalhos e avaliações das disciplinas do curso
-📚 Estudando python, HTML, CSS e javascript  
+🎯 Github destinado para atividades, trabalhos e avaliações das disciplinas do curso
+📚 Estudando python, HTML, CSS, javascript e swift 
 📜 Para acessar meu perfil de projetos maiores ou profissionais, <a href='https://github.com/nicolasscarvalho'> clique aqui </a>
 
 <!--
